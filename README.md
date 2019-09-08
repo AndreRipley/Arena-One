@@ -5,4 +5,4 @@ User: test
 Pass: test
 
 Site: www.virtualities360.com
-Site admin: www.virtualities.com/admin
+Site admin: www.virtualities360.com/admin
