@@ -1,0 +1,55 @@
+[27-Aug-2019 20:11:04 CST6CDT] PHP Fatal error:  require_once(): Failed opening required '/system/dbconnect.php' (include_path='.:/usr/local/php71/pear') in /home/fleekico/public_html/virtualities360.com/registration.php on line 4
+[27-Aug-2019 20:11:43 CST6CDT] PHP Fatal error:  require_once(): Failed opening required '../system/dbconnect.php' (include_path='.:/usr/local/php71/pear') in /home/fleekico/public_html/virtualities360.com/registration.php on line 4
+[27-Aug-2019 20:29:14 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 47
+[27-Aug-2019 20:30:32 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 47
+[27-Aug-2019 20:30:37 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 47
+[27-Aug-2019 20:32:17 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 45
+[27-Aug-2019 20:32:18 CST6CDT] PHP Notice:  Undefined variable: test in /home/fleekico/public_html/virtualities360.com/registration.php on line 90
+[27-Aug-2019 20:33:07 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 46
+[27-Aug-2019 20:34:02 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 46
+[27-Aug-2019 20:34:02 CST6CDT] PHP Recoverable fatal error:  Object of class mysqli_stmt could not be converted to string in /home/fleekico/public_html/virtualities360.com/registration.php on line 92
+[27-Aug-2019 20:34:21 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 46
+[27-Aug-2019 20:34:35 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 46
+[27-Aug-2019 20:34:40 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 46
+[27-Aug-2019 20:35:54 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 46
+[27-Aug-2019 20:36:01 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 46
+[27-Aug-2019 20:36:19 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 46
+[27-Aug-2019 20:38:00 CST6CDT] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fleekico/public_html/virtualities360.com/registration.php on line 43
+[27-Aug-2019 21:24:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/fleekico/public_html/virtualities360.com/authenticate.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fleekico/public_html/virtualities360.com/authenticate.php on line 12
+[27-Aug-2019 21:24:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/fleekico/public_html/virtualities360.com/authenticate.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fleekico/public_html/virtualities360.com/authenticate.php on line 12
+[27-Aug-2019 21:25:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/fleekico/public_html/virtualities360.com/authenticate.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fleekico/public_html/virtualities360.com/authenticate.php on line 13
+[27-Aug-2019 21:25:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/fleekico/public_html/virtualities360.com/authenticate.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fleekico/public_html/virtualities360.com/authenticate.php on line 13
+[27-Aug-2019 21:25:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/fleekico/public_html/virtualities360.com/authenticate.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fleekico/public_html/virtualities360.com/authenticate.php on line 13
+[27-Aug-2019 21:25:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/fleekico/public_html/virtualities360.com/authenticate.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fleekico/public_html/virtualities360.com/authenticate.php on line 13
+[27-Aug-2019 21:28:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/fleekico/public_html/virtualities360.com/authenticate.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fleekico/public_html/virtualities360.com/authenticate.php on line 14
+[02-Sep-2019 13:44:01 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/fleekico/public_html/virtualities360.com/users.php on line 59
+[02-Sep-2019 13:56:43 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'phpMyEdit.class.php' (include_path='.:/usr/local/php56/pear') in /home/fleekico/public_html/virtualities360.com/users.php on line 336
+[02-Sep-2019 14:12:01 CST6CDT] PHP Parse error:  syntax error, unexpected '$opts' (T_VARIABLE), expecting ')' in /home/fleekico/public_html/virtualities360.com/users.php on line 322
+[02-Sep-2019 14:13:00 CST6CDT] PHP Parse error:  syntax error, unexpected '$opts' (T_VARIABLE), expecting ')' in /home/fleekico/public_html/virtualities360.com/users.php on line 322
+[02-Sep-2019 14:13:02 CST6CDT] PHP Parse error:  syntax error, unexpected '$opts' (T_VARIABLE), expecting ')' in /home/fleekico/public_html/virtualities360.com/users.php on line 322
+[02-Sep-2019 14:53:16 CST6CDT] PHP Parse error:  syntax error, unexpected '$opts' (T_VARIABLE) in /home/fleekico/public_html/virtualities360.com/users.php on line 358
+[02-Sep-2019 16:28:17 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'phpMyEdit.class.php' (include_path='.:/usr/local/php56/pear') in /home/fleekico/public_html/virtualities360.com/categories.php on line 220
+[02-Sep-2019 16:31:51 CST6CDT] PHP Fatal error:  Call to a member function rowCount() on null in /home/fleekico/public_html/virtualities360.com/phpMyEdit7/phpMyEdit.class.php on line 373
+[02-Sep-2019 16:31:54 CST6CDT] PHP Fatal error:  Call to a member function rowCount() on null in /home/fleekico/public_html/virtualities360.com/phpMyEdit7/phpMyEdit.class.php on line 373
+[02-Sep-2019 16:40:00 CST6CDT] PHP Parse error:  syntax error, unexpected '$opts' (T_VARIABLE) in /home/fleekico/public_html/virtualities360.com/services.php on line 216
